@@ -13,3 +13,8 @@ The dashboard was built using the following tools and technologies:<br>
 Source: The main data source of the project was inherited from a real world project tutorial by Rishabh Mishra.<br>
 ::https://youtu.be/6cV3OwFrOkk?si=V93xjLYazwXziGuT <br>
 Data on all the Order details including order id, sales, profit, quantity, categories, sub-categories, and payment mode as well as a complimantary table with customer details.
+
+
+## 📸 Dashboard Preview
+
+[![Dashboard](./assets/dashboard.png)](https://imharsh27.github.io/meet-Harsh/)
